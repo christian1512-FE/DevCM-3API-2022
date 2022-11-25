@@ -1,10 +1,39 @@
 # DevCM-3API-2022
-MODULE 4 CHALLENGE WORK DAY SCHEDULE
+MODULE 4 CHALLENGE WORK DAY SCHEDULE USING THIRD-PARTY API.
 
 
 ## Description
 
+This application is a work day scheduler calender that allows users to add and save events for each hour of a work day. The app was created using HTML, CSS and JQuery. It uses Day.js libraries to easily handle time and dates in JavaScript. 
+
 ## Usage
+
+* Top header displays the current date and time live.
+
+* Workday calander includes working hours from 9AM-5PM.
+
+* Each time block is color coded with past, present and future.
+```
+    ⬜️ Past displays gray for the past hours.
+
+    🟥 Present displays red for the current hour.
+
+    🟩 Future displays green for the future hours.
+```
+ 
+* Input field where the user can enter data.
+
+* Save button saves items to local storage.
+
+
+## Demonstration
+Creating events a
+![alt text](./Assets/Images%3AGif/schedule.GIF)
+
+Saving data into local storage
+
+![alt text](./Assets/Images%3AGif/localstoragesaved.jpg)
+
 
 ## License
 
