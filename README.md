@@ -27,7 +27,7 @@ This application is a work day scheduler calender that allows users to add and s
 
 
 ## Demonstration
-Creating events a
+Creating events and saving them.
 ![alt text](./Assets/Images%3AGif/schedule.GIF)
 
 Saving data into local storage
